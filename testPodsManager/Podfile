@@ -1,4 +1,5 @@
 target 'testPodsManager' do
     pod 'YYImage' #图片
-    pod 'YYModel', '1.0.3' #模型
+    pod 'YYModel', '1.0.4' #模型
+    pod 'AFNetworking', '~> 4.0'  #网络请求
 end
