@@ -1,0 +1,18 @@
+PODS:
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+
+DEPENDENCIES:
+  - YYImage
+
+SPEC REPOS:
+  trunk:
+    - YYImage
+
+SPEC CHECKSUMS:
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+
+PODFILE CHECKSUM: b22ab1ead5d5b574cd2cb19d0deccfbd98705795
+
+COCOAPODS: 1.9.1

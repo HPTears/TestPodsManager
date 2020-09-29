@@ -1,0 +1,3 @@
+target 'testPodsManager' do
+    pod 'YYImage'  #图片
+end
