@@ -1,3 +1,4 @@
 target 'testPodsManager' do
     pod 'YYImage'  #图片
+    pod 'YYModel'  #模型
 end
